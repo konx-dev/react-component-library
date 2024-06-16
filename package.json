@@ -1,5 +1,8 @@
 {
   "name": "@konx-dev/react-component-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/konx-dev"
+  },
   "version": "0.0.1",
   "scripts": {
     "rollup": "rollup -c"
