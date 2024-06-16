@@ -1,6 +1,6 @@
 # React Component Library
 
-Experimental library of common UI elements and components with portable functionality (social share, breadcrumbs etc)
+Experimental library of common UI elements and components built with React.
 
 ## Features
 

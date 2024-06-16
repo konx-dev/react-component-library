@@ -11,7 +11,7 @@
   },
   "author": "konx.dev",
   "license": "ISC",
-  "description": "Experimental React component library and common UI elements or project reuse",
+  "description": "Experimental library of common UI elements and components built with React.",
   "devDependencies": {
     "@chromatic-com/storybook": "^1.5.0",
     "@rollup/plugin-commonjs": "^26.0.1",
