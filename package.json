@@ -1,5 +1,5 @@
 {
-  "name": "@konx-dev/react-component-library",
+  "name": "konx-dev/react-component-library",
   "version": "0.0.1",
   "scripts": {
     "rollup": "rollup -c"
